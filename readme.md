@@ -886,3 +886,4 @@ Inclusion criteria are less strict for this fast-moving field.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
+- [dev-shortcuts-cli](https://github.com/techkayacodes/dev-shortcuts-cli) - Instant terminal keyboard shortcut cheat-sheet lookup for Claude Code, VS Code, Vim/Neovim, tmux, and Chrome DevTools.
